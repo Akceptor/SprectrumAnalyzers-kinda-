@@ -19,6 +19,11 @@ Connect the Adafruit compatible I2C display as follows:
 | SDA         | GPIO 21   |
 | SCL         | GPIO 22   |
 
+## Hardware List
+- ESP32 Dev Board https://s.click.aliexpress.com/e/_olSS87I
+- OLED Дисплей https://s.click.aliexpress.com/e/_oDPWA1E 
+- CC1101 https://s.click.aliexpress.com/e/_ok4EipE
+
 
 ## Software Setup
 
